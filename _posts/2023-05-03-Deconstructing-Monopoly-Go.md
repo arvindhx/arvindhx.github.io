@@ -7,7 +7,7 @@ comments: true
 author: Arvindh S V
 ---
 
-#Deconstructing Monopoly GO - will it be a $100M hit?
+# Deconstructing Monopoly GO - will it be a $100M hit?
 
 **200 word summary of key takeaways:**
 1. Monopoly GO! is a social casino game with a dice-rolling core with build, attack/steal mechanisms. Gameplay's strength is simplicity and high production value art.
