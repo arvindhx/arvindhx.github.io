@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deconstructing Monopoly GO - will it be a $100M hit?
-subtitle: A comprehensive deconstruction of Monopoly GO!
+subtitle: A comprehensive deconstruction of the newest social casino game
 tags: [deconstructions]
 comments: true
 author: Arvindh S V
