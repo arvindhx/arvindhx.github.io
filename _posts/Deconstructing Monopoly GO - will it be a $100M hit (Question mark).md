@@ -23,7 +23,7 @@ At first glance, it is confusing. Monopoly is social casino now?
 
 On its App Store/Play Store page, Monopoly GO! clearly sells its nostalgic board game-esque features through its video banner <sup>[2]</sup>: it's classic board, roll the dice, expand your empire, charge rent, bankrupt friends, and win. All they say is true. However, it is packaged in a different format. 
 
-![[Deconstructing Monopoly Go.png]]
+![Deconstructing Monopoly Go](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/e8f4260c-bb79-4b28-bcf6-58eba56a8497)
 
 Here is the summary (discussed in detail in Part-4):
 - **Dice rolling:** You have the classic monopoly board and limited dice rolling turns. However, unlike the board game, you need not buy/own cards, and there is no charging rent from your friends. You get a certain amount of money based on the tile you land on. Some tiles are small wins, and a few are MEGA wins. Between these two types of wins, there are "chance-based" wins on specific tiles. There is no planning/thinking involved; it becomes a luck-based core game.
@@ -35,7 +35,7 @@ Here is the summary (discussed in detail in Part-4):
 
 The casino category in the mobile games market is the 4th largest category in in-app purchases (IAP), accounting for 10% of all IAP spending worldwide while making only 3% of all downloads <sup>[3]</sup>. Interestingly, it is the #1 category in the United States, accounting for 19% of all IAP spends and 4% of all downloads<sup>[3]</sup>. 
 
-![[Pasted image 20230502003107.png]]
+![Pasted image 20230502003107](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/b8da48d9-7e02-4657-b702-49fb6f32d5c1)
 
 Casino games have one of the highest revenue per download (RPD) but still struggle to make it to the top charts. Then came Coin Master, which innovated the casino format from games staying true to casino machines to including rewarding meta-games like building & social battling. Combined with influencer marketing & exceptional live services, Coin Master has raked in more than $3 billion in lifetime revenue <sup>[4]</sup> Moreover, its success is attributed to social elements in the game. 
 
@@ -82,7 +82,7 @@ The core loop of this game has three parts:
 2. Based on where you land, you're given a reward (usually monopoly money). Apart from monopoly money, you're also given certain big wins - Shutdown (attacking other people's bases) or Bank Heist (stealing from others). There's also a defensive reward - "Shields", which blocks other people's attack on your base. There are negative rewards too that take money from you!
 3. You can then sink all the monopoly money earned to build buildings in a city. Each building has 5-6 upgrades (artistic upgrades), and you can progress to a new city when you complete all the upgrades in your current city. There's a huge reward (of rolls & money) when you complete all the upgrades in a city.
 
-![[Slide3.png]]
+![Slide3](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/ce0c6e3e-61c9-40f2-a14a-f1f9cb1d47a0)
 
 **Notes in the core loop:**
 1. In the core loop, you play alone. No friends can participate in this. Even though some tiles have "rent" and "chance reward" written in them, they are just a means to give you monopoly money under a different title.
@@ -100,25 +100,25 @@ It's variable rewards-ception - variable rewards inside a variable reward. For p
 
 When switching an opponent, you can choose someone to "revenge," players who have attacked your base earlier, or you can choose a friend that you've made in-game or connected via Facebook. You can narrow down your wrath to one of your friends and exhaust their shields if you need! **It creates a "revenge" based social interaction that's a powerful motivator to roll more.**
 
-![[Slide4.png]]
+![Slide4](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/1aa141ec-0e05-4185-872e-247c66792ac0)
 
 **Bank Heist:**
 When you get the Bank Heist option, you're shown a random opponent with a given amount of money shown. There are 12 doors, and behind each door is one among 3 symbols. Each symbol correlated to either a small, medium, or big heist. When you open the doors, the first symbol to amount up to 3 in number becomes your reward. It's a fairly simple mechanic that once again leverages variable rewards and feeling close to variable rewards as a way to drive excitement.
 
 There are no switching options in bank heist.
 
-![[Slide5.png]]
+![Slide5](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/e6254798-2a0a-4e24-bf9a-dafa313d1289)
 
 **Buildings & Progression:**
 Each building has 5-6 levels of upgrades, and each city has 5 buildings. A progression point is awarded for each upgrade, and the progression levels unlock higher and higher levels of consumable rewards when you roll. This progression level is also used to compare the status between friends in the leaderboard; a higher progression level player is placed in a higher place. When you complete a city, you move to the next one on the map. The upgrades become costlier the more you progress. New city = New themes! Keeps the rolling fresh and exciting
 
 One design to note: Consumable rewards scale considerably lesser than the cost of upgrades
-![[Slide6.png]]
+![Slide6](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/76f4d457-24d8-48eb-8228-31885adb4a50)
 
 **Meta game: Sticker collection in albums**
 From completing daily and weekly goals, players can get "sticker packs," which can give substantial one-time consumable rewards (Rolls and money) when completed in an album. It also doubles as a collaboration feature where players can trade duplicate stickers among friends to complete their collection. However, their collection completion rate is still controlled by a rare, non-tradeable "gold sticker."
 
-![[Slide7.png]]
+![Slide7](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/419fafbc-3ecb-4d3e-9060-4db090367395)
 
 **Strong growth loop:**
 Along with banners to monetize heavily constrained rolls, Monopoly GO! has also given an additional "out" for players in the form of inviting friends to play. They offer:
@@ -135,7 +135,7 @@ Along with banners to monetize heavily constrained rolls, Monopoly GO! has also 
 **The standout feature in other mechanics: Endless-ladder monetization**
 Endless-ladder monetization is when you're given a free gift to begin with, and you're shown 3 more gifts in a ladder - the first one is paid, but the remaining 2 are mentioned as "FREE", this creates a bias in the player's mind to "not lose the free gifts," and the value of the gifts keep on increasing to push the pressure to buy higher and higher.
 
-![[Slide8.png]]
+![Slide8](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/98c56543-9bfb-4380-89a1-1058233a28af)
 
 A summary of the entertainment value of Monopoly GO:
 - Thrill: The roller coaster ride of rewards when rolling the dice 
@@ -145,7 +145,7 @@ A summary of the entertainment value of Monopoly GO:
 
 ## Part - 5: Slapping an IP on a successful format: will it work? Has it worked before for Monopoly?
 
-![[7k6pmj.jpg]]
+![7k6pmj](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/d009cb23-5d9a-47eb-b0bf-19517615b5d4)
 
 To clarify, Monopoly GO! did not "slap their IP"; they did a thoughtful reconstruction of Coin Master (and certain dice dream mechanics) that naturally matched Monopoly's design themes. But it is important to ask whether "slapping their IP" on a hit format works in an already crowded mobile market.
 
@@ -171,15 +171,16 @@ We are going to evaluate this game & IP fit in terms of three main categories (a
 3. Retention/LiveOps: Are there opportunities that the IP provides to make the game a place to engage over the long term?
 
 Here's the evaluation & reasoning (considering the target demographic to be social entertainment seekers):
-![[Slide10.png]]
+![Slide10](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/4b9f4db3-804f-43af-a1f9-3e92122b8790)
+
 
 Monopoly entering the casino category is not new; they have found mini-hits over the years in casino games - Bingo Bash & Monopoly Slots. Here's the list of games with Monopoly IP:
-![[Slide11.png]]
+![Slide11](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/fccf49d8-89a0-41ab-a522-8b883baa1a14)
 
 Here's an insight to note - Monopoly IP has done quite well in the casino category, and average & big spenders have IP affinity far more than other players <sup>[8]</sup>. This would mean Monopoly GO! can expect to monetize really well with excitement seekers & casino fans. 
 
 A chart from Newzoo report depicting IP influencing motivation to download a game for average and big spenders:
-![[Pasted image 20230503000531.png]]
+![Pasted image 20230503000531](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/15e7027a-fa0f-4ba3-8988-ac5411eebb36)
 
 
 ## Part - 6: Monopoly GO!'s unique advantage and its condition for becoming a hit
@@ -198,14 +199,15 @@ https://video.adsoftheworld.com/gnt1tqw1mr2outx2v53zqf7gt125.mp4
 Apart from this, Dice Dreams experimented with a lot of UA processes until their metrics improved, (Read more about this, from Deconstructor of Fun: https://www.deconstructoroffun.com/blog/2022/6/22/going-beyond-user-acquisition-the-curious-case-of-dice-dreams)
 
 Due to Monopoly's brand awareness in key social casino markets, they have an edge in UA and are expected to have a lower CPI due to this. In addition to this, the Monopoly GO! team is definitely getting creative with their ads. One such ad (a variant of a popular shiba inu meme ):
-![[IMG_3728.jpg]]
+![IMG_3728](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/e61ce642-8b31-4c50-9729-f33e80505a77)
 
 Combined with this UA edge, they have got strong growth loops in-game in the form of:
 1. Rewarded invites (as mentioned in Part-4)
 2. Community chests, the gameplay rewards become more with friends (as mentioned in part-4)
 and these loops are sold as a banner every time a player runs out of rolls. The player sees two pain banners first and then perceives the reward through invites as a deal with incredible value.
 
-![[Slide12.png]]
+![Slide12](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/d4b168b0-c0af-46a6-ae35-89568e58af4c)
+
 
 **Their condition for success:**
 Monopoly GO!'s entertainment experience fully is multi-fold and fully **unlocks only when you have enough friends in your network who're playing Monopoly GO! as you.** The excitement and the drive to roll are simply not there if you are not in a network that plays with you.
@@ -214,16 +216,17 @@ This shows up in the stats too! Let's look at coin master's evolution from a med
 
 There are two graphs here, the first one is Coin Master's download graph <sup>[9] </sup> and the second one is its 30-day revenue per download (RPD) <sup>[9] </sup>. Let's look at the RPD graph first. You can clearly see there are two levels of RPD. One significantly higher than the other
 
-![[Slide14 1.png]]
+![Slide14 1](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/660f4310-3f04-4c9a-b4ec-96d8e1e72ed5)
 
-![[Slide13.png]]
+![Slide13](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/44b7403a-d5b9-4230-b696-ecc579f833f7)
+
 
 One major factor contributing to this is that you retain more and more VIP spenders as your downloads explode, but the second part is interesting - the social entertainment that comes through attacking and getting attacked by a bunch of friends truly upgrades when more of your friends are present in Coin master. And suddenly, there's added pressure on getting slot spins. 
 
 You can see a similar pattern evolving right now with dice dreams, with their UA efforts in mid-late 2022 making their RPDs better.
-![[Slide15.png]]
+![Slide15](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/9997331f-2dc3-4e3d-89b6-fb01d1b2f68d)
 
-![[Slide16.png]]
+![Slide16](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/7d9da346-5a57-4359-bae9-65ee42c40211)
 
 If Monopoly GO! is going to win, they have got to align their UA efforts to attract big spenders in social entertainment seekers and give them a better entertainment experience by having most of their friends in the in-game network. A geography-focused big bang of sorts.
 
@@ -249,7 +252,7 @@ If you look at coin master, it gives a clear direction in the early levels. Go t
 **2. Making revenge predominant:**
 When attacking, players often miss seeing the option for "revenge" or "Attack friends", as the option to do this blends with the design and does not stand out. Revenge and attacking friends are vital to encouraging social engagement, they should be the main CTA of the attack page. Here's a comparison with Coin Master on how they handle revenge CTAs.
 
-![[Slide17.png]]
+![Slide17](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/4dfe20a3-e9f2-441a-ae42-f07656db89af)
 
 **3. Setting expectations for live events:**
 Even though very rewarding, live events have varied schedules. Some last for 1 hour, some for a day, and some for 3-4 days. Some are leaderboards, while some are goalposts. Random live events are good for creating a sense of uncertainty and excitement around their availability but in its current version, it is bordering on an unstructured distraction. The experience would be so much more enjoyable if they can structure it into 1 main event, 1 secondary event, and 1 random event in their respective slots.
