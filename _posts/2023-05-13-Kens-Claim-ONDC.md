@@ -12,7 +12,7 @@ The Ken (the-ken.com) is usually on point with their business takes, but this wa
 
 ![image](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/b0bd6c2f-675a-4370-a923-dcbd588c21c0)
 
-In their weekly nutgraf: https://the-ken.com/the-nutgraf/what-happens-if-we-kill-swiggy-zomato-ola-uber/
+In their weekly nutgraf: [https://the-ken.com/the-nutgraf/what-happens-if-we-kill-swiggy-zomato-ola-uber/](url)
 
 This article makes an important claim for the wrong reasons. Their claim: “This is the world we’ll live in if ONDC wins. Regulations. Price caps. Limits on incentives. And sub-limits. Coalitions. Negotiations. No transparency.” Quoting a sub-par mechanism on a open network app.
 
