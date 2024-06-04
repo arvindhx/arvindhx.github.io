@@ -21,8 +21,9 @@ author: Arvindh S V
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Product Management Resources: "https://www.markdowntutorial.com/"
+  Alamaris:
+    - Game Alamari: "https://arvindh.in/games"
+    - Book Alamari: "https://arvindh.in/books"
 # Author's home: "https://arvindh.in"
 
 ################
