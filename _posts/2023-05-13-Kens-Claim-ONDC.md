@@ -10,7 +10,7 @@ author: Arvindh S V
 ---
 The Ken (the-ken.com) is usually on point with their business takes, but this was a knee-jerk reaction to ONDC, where they say:
 
-![[Pasted image 20240604064834.png]]
+![image](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/b0bd6c2f-675a-4370-a923-dcbd588c21c0)
 
 In their weekly nutgraf: https://the-ken.com/the-nutgraf/what-happens-if-we-kill-swiggy-zomato-ola-uber/
 
