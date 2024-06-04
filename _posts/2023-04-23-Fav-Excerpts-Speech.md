@@ -15,11 +15,12 @@ Few speeches profoundly shift your perspective on work & life  - Bill Gurley's 2
 Here are my favourite excerpts from his speech - "Runnin’ Down a Dream: How to Succeed and Thrive in a Career You Love"
 
 Before the excerpts, here's where you can read their stories:
-https://jamesclear.com/great-speeches/runnin-down-a-dream-by-bill-gurley
+[https://jamesclear.com/great-speeches/runnin-down-a-dream-by-bill-gurley](url)
 Here's the video version (Note: reading the transcript is recommended):
-https://www.youtube.com/watch?v=xmYekD6-PZ8
+[https://www.youtube.com/watch?v=xmYekD6-PZ8](url)
 
-![[FuZtBLtaYAARWFg.jpg]]
+![image](https://github.com/arvindhx/arvindhx.github.io/assets/157497747/c397dd7e-7f36-4439-9a10-7a61dddb8347)
+
 
 He starts by telling the stories of three of his heroes and the common patterns that he noticed among them.
 
