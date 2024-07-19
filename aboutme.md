@@ -4,7 +4,7 @@ title: About me
 subtitle:
 ---
 
-If you're a game developer, looking to scout me for your team, here's my official CV: [Arvindh Subramanian V (Game Product Manager).pdf](https://github.com/user-attachments/files/15541498/ASV-2.pdf)
+If you're a game developer, looking to scout me for your team, send me an email! 
 
 If you're a game designer/game builder, looking to:
 - Get feedback on your prototype (or)
