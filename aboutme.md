@@ -4,7 +4,7 @@ title: About me
 subtitle:
 ---
 
-If you're a game developer, looking to scout me for your team, send me an email! 
+If you're a game developer, looking to scout me for your team, send me an email here: [p21arvindh@iima.ac.in](mailto:p21arvindh@iima.ac.in)
 
 If you're a game designer/game builder, looking to:
 - Get feedback on your prototype (or)
